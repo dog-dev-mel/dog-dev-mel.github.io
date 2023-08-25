@@ -480,6 +480,8 @@ footer .footer-custom-content {
   margin: 0;
   font-weight: 300;
   margin-bottom: 0.625rem;
+  white-space: pre-wrap;
+  color: #FFC0CB;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
