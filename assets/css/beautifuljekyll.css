@@ -680,7 +680,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-top: 0;
   font-size: 2.1875rem;
 }
-.intro-header .page-heading .page-subheading {
+.intro-header .page-heading .page-subheading1 {
+  color: #2980b9;
+}
+.intro-header .page-heading .page-subheading2 {
   color: #2980b9;
 }
 .intro-header .post-heading .post-subheading {
