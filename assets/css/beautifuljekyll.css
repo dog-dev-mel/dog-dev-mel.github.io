@@ -685,7 +685,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   display: inline-block;
   white-space: pre-wrap;
   overflow-wrap: break-word;
-  max-width: 16em;
+  max-width: 15em;
 }
 .intro-header .post-heading .post-subheading {
   font-size: 1.6875rem;
