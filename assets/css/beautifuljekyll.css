@@ -683,9 +683,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .page-heading .page-subheading {
   color: #2980b9;
   display: inline-block;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: pre-wrap;
+  word-break: break-all;
   max-width: 16em;
 }
 .intro-header .post-heading .post-subheading {
