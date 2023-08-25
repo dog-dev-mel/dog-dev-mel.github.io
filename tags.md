@@ -1,5 +1,3 @@
-markdown
-Copy
 ---
 layout: default
 title: Tags
