@@ -23,7 +23,7 @@ author: 某某某
 navbar-links:
   关于我: "aboutme"
   我的博客: "posts"
-  标签: "/tags.html"
+  标签: "tags"
 
 ################
 # --- Logo --- #
