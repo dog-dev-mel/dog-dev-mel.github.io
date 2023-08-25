@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
+title: 关于我
 subtitle: 一个普通的修仙爱好者，当然是开玩笑的
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+目前本人生活在墨尔本，业余爱好园艺，唱歌，编编程。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+俗人一个，有什么特点，就是心不脏，直说就是哀丑穷，不是什么奋斗比。
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
