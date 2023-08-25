@@ -682,6 +682,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading {
   color: #2980b9;
+  white-space: pre-wrap;
 }
 .intro-header .post-heading .post-subheading {
   font-size: 1.6875rem;
